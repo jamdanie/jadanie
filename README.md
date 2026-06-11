@@ -16,7 +16,7 @@ Building practical projects and exploring emerging technologies as an Informatio
 
 </div>
 
-<br><br>
+
 
 <div align="center">
 
