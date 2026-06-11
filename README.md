@@ -8,7 +8,7 @@
 ---
 <div align="center">
 
-Building practical projects and exploring emerging technologies as an Information Technology student at the University of Washington Tacoma.
+Building practical projects and exploring emerging technologies as an Information Technology student at the University of Washington.
 
 🔐 Cybersecurity & Threat Analysis    |    🌐 Networking & Infrastructure    |    ☁️ Cloud & Distributed Systems
 
