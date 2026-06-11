@@ -4,10 +4,8 @@
 
 </div>
 
----
-
 ### 🧠 About Me
-
+---
 <div align="center">
 
 I build cybersecurity, networking, cloud, and software development projects.
