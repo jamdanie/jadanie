@@ -10,11 +10,11 @@
 
 I build cybersecurity, networking, cloud, and software development projects.
 
-<br>
+
 
 🔐 Cybersecurity Systems &nbsp;&nbsp; | &nbsp;&nbsp; 🌐 Networking & Infrastructure &nbsp;&nbsp; | &nbsp;&nbsp; ☁️ Cloud Engineering  
 
-<br>
+
 
 💻 Software Development &nbsp;&nbsp; | &nbsp;&nbsp; 🎮 Security Training Games &nbsp;&nbsp; | &nbsp;&nbsp; 🛡️ Threat Analysis
 
