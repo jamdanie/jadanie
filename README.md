@@ -1,68 +1,56 @@
 <div align="center">
 
-────────────────────────────
-JAMES DANIELS
-Cybersecurity | Cloud | Networking
-────────────────────────────
-
-Building cybersecurity tools, networking projects, and cloud solutions.
-
-<br>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,50:203a43,100:2c5364&text=Cybersecurity%20%7C%20Networking%20%7C%20Cloud&fontColor=ffffff&fontSize=28&fontAlignY=40&animation=fadeIn"/>
 
 </div>
 
 ---
 
-### 👋 About Me
+### 🧠 About Me
 
-I build cybersecurity, networking, cloud, and software projects.
+<div align="center">
 
-🔐 Cybersecurity  
-🌐 Networking  
-☁️ AWS & Azure  
-💻 Full Stack Development  
-🎮 Security Training Games  
+I build cybersecurity, networking, cloud, and software development projects.
 
----
+<br>
 
-### 🚀 Featured Projects
+🔐 Cybersecurity Systems &nbsp;&nbsp; | &nbsp;&nbsp; 🌐 Networking & Infrastructure &nbsp;&nbsp; | &nbsp;&nbsp; ☁️ Cloud Engineering  
 
-- Rogue Node
-- RidgeRelay
-- Cisco Networking Labs
-- Security & Cloud Projects
+<br>
 
----
+💻 Software Development &nbsp;&nbsp; | &nbsp;&nbsp; 🎮 Security Training Games &nbsp;&nbsp; | &nbsp;&nbsp; 🛡️ Threat Analysis
 
-### 📈 Stats
+</div>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jamdanie&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamdanie&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br>
 
----
+<div align="center">
 
-### 🐍 Activity
+<img src="https://raw.githubusercontent.com/jamdanie/jadanie/output/github-contribution-grid-snake-dark.svg" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jamdanie/jadanie/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+
+</div>
+
 
