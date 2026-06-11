@@ -1,8 +1,9 @@
 <div align="center">
 
-# James Daniels
-
-### Cybersecurity | Networking | Cloud | Software Development
+────────────────────────────
+JAMES DANIELS
+Cybersecurity | Cloud | Networking
+────────────────────────────
 
 Building cybersecurity tools, networking projects, and cloud solutions.
 
