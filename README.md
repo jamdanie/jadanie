@@ -23,7 +23,7 @@ Building practical projects and exploring emerging technologies as an Informatio
 <img src="https://raw.githubusercontent.com/jamdanie/jadanie/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
+ 
 <br>
  
 <div align="center">
