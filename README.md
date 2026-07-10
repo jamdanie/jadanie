@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0:2B193D,50:4B2E83,100:B7A57A&text=Cybersecurity%20%7C%20Networking%20%7C%20Agentic%20AI&fontColor=ffffff&fontSize=28&fontAlignY=40&animation=fadeIn"/>
 
