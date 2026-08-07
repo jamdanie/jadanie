@@ -13,13 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: jamdanie
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23B7A57A&color_dots=%23ebedf0,%23ddd3e8,%2385759b,%234B2E83,%232B193D
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23B7A57A&color_dots=%23161b22,%23382748,%235c3b76,%234B2E83,%23B7A57A
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
