@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&color=0:2B193D,50:4B2E83,100:B7A57A&text=Cybersecurity%20%7C%20Networking%20%7C%20Agentic%20AI&fontColor=ffffff&fontSize=28&fontAlignY=38&animation=fadeIn"/>
 
-### James | Information Technology @ University of Washington Tacoma
+### James | Information Technology @ University of Washington
 
 Building practical systems across cybersecurity, networking, cloud infrastructure, full-stack development, and emerging AI technologies.
 
